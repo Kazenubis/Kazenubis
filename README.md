@@ -1,122 +1,67 @@
-Thanks for sharing the README, Mahmoud! Since you're just starting with Python and AI, I’ll help you adjust this to reflect **your current level**, **your goals**, and **your personality** — while keeping it clean and professional.
+# Hi, I'm Mahmoud 👋
 
-Here’s a **customized version of your GitHub README** tailored for a beginner Python and AI developer named *Mahmoud Nagah*:
-
----
-
-````markdown
-# 👋 Hello, I'm Mahmoud Nagah
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mahmoudnagah.mahmoudnagah)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class PythonLearner:
-
-    def __init__(self):
-        self.name = "Mahmoud Nagah"
-        self.role = "Aspiring Python Developer"
-        self.languages = ["Python", "English", "Arabic"]
-        self.interests = ["AI", "Machine Learning", "Open Source"]
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub! I'm learning and building cool stuff.")
-
-me = PythonLearner()
-me.say_hi()
-````
-
----
-
-## 🚀 About Me
-
-I'm a **beginner programmer** currently learning **Python** and diving into the world of **AI and machine learning**.
-My goal is to build useful projects, contribute to open source, and grow as a developer every day.
-
-I'm especially interested in:
-
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Neural Networks
-* 📊 Data Analysis
-* 🐍 Python automation & scripting
+A Computer Science graduate from Egypt with a growing portfolio of
+Python projects spanning GUI apps, automation, data analysis, and APIs,
+actively looking for Junior Python Developer roles.
 
 ---
 
 ## 🌱 Currently Learning
 
-* Python fundamentals
-* AI and machine learning basics
-* Git & GitHub
-* Jupyter notebooks and data visualization
+- Machine Learning & AI fundamentals
+- scikit-learn, TensorFlow
+- Neural networks and deep learning
+- Data science pipeline (EDA → feature engineering → modelling)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat\&logo=python\&logoColor=white\&color=blue)
-![Jupyter](https://img.shields.io/badge/Tool-Jupyter_Notebook-informational?style=flat\&logo=jupyter\&logoColor=white\&color=orange)
-![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat\&logo=visual-studio-code\&logoColor=white\&color=blue)
-![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat\&logo=git\&logoColor=white\&color=orange)
-
----
-
-## 📘 Projects
-
-> *Still building... more coming soon!*
-
-Here are a few beginner-friendly projects I'm working on or planning:
-
-* 📈 Simple data analysis with Pandas
-* 🤖 AI-powered chatbot
-* 📚 Python mini-projects (games, tools, automations)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=flat&logo=python&logoColor=white)
+![Turtle](https://img.shields.io/badge/Turtle-4B8BBE?style=flat&logo=python&logoColor=white)
+![requests](https://img.shields.io/badge/requests-2CA5E0?style=flat&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=flat&logo=python&logoColor=white)
+![pygame](https://img.shields.io/badge/pygame-EF7B00?style=flat&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
-## 📫 Let's Connect
+## 🚀 Projects
 
-* 💼 [LinkedIn](https://www.linkedin.com) *(add your link here)*
-* 🐦 [Twitter/X](https://twitter.com) *(optional)*
-* 📧 Email: *[your-email@example.com](mailto:your-email@example.com)*
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahmoudnagah\&theme=gruvbox\&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🔭 Goals for 2025
-
-* ✅ Master Python basics
-* ✅ Build 5+ small projects
-* 📌 Start contributing to open source
-* 📌 Learn the foundations of machine learning (scikit-learn, NumPy, Pandas)
-* 📌 Create a personal portfolio site
+| Project | Description | Tech |
+|---|---|---|
+| [Breakout Game](https://github.com/Kazenubis/Breakout.git) | Clone of the classic 80s arcade game with procedural level generation | Python, Turtle |
+| [Image Watermarker](https://github.com/Kazenubis/image-watermarking.git) | Desktop app to add text watermarks with opacity and position controls | Python, Tkinter, Pillow |
+| [Typing Speed Test](https://github.com/Kazenubis/Typing-speed-test-.git) | WPM and accuracy typing test with 60-second countdown | Python, Tkinter |
+| [Dangerous Writing App](https://github.com/Kazenubis/dangerous-writing-app.git) | Text editor that deletes everything if you stop typing for 5 seconds | Python, Tkinter |
+| [PDF to Speech](https://github.com/Kazenubis/pdf-to-speech.git) | Converts PDF files to audio using ElevenLabs API | Python, ElevenLabs API, pdfplumber |
+| [Steam Scraper](https://github.com/Kazenubis/Custom-Web-Scraper.git) | Scrapes Steam top sellers into a CSV using the Steam API | Python, requests, csv |
+| [Space Missions Analysis](https://github.com/Kazenubis/Analyse-and-Visualise-the-Space-Race.git) | EDA of 4,324 space launches from 1957–2020 | Python, pandas, matplotlib |
 
 ---
 
-*Thanks for dropping by! Feel free to check out my projects, give feedback, or just say hi!*
+## 📊 GitHub Stats
+
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kazenubis&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazenubis&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-**Mahmoud Nagah**
-🚀 *Beginner Python Developer & Future AI Engineer*
+## 📫 Contact
 
-```
+- 📧 mahmoudnagah1993@gmail.com
+- 🌍 Cairo, Egypt
+- 💼 Open to Junior Python Developer roles — remote or Egypt/MENA based
 
 ---
 
-### ✅ What You Should Do Next:
-
-- Replace `mahmoudnagah` with your actual GitHub username wherever needed.
-- Fill in the **LinkedIn**, **email**, and any social links.
-- As you grow, update the `Currently Learning` and `Projects` sections with what you're actually doing.
-- Pin your best projects to your GitHub profile once you have them.
-
-Would you like me to create a **Markdown file** for this so you can copy/download it easily?
-```
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Kazenubis.Kazenubis)
