@@ -99,7 +99,10 @@ Currently deepening my skills in machine learning with **scikit-learn** and **Te
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Kazenubis)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Kazenubis&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kazenubis&layout=compact&theme=dark&hide_border=true&langs_count=6" width="40%"/>
+</p>
 
 ---
 
